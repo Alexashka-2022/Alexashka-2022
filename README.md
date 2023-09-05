@@ -2,7 +2,8 @@
 Меня зовут Александр, я начинающий web-разработчик. Заканичваю обучение на "Яндекс Практикум", узнаю что-то новое, дополняю свои знания на практике pet-проектами.
 Мне нравиться веб-разработка и я хочу получить возможность применять свои знания на практике.
 
-## Стек технологий
+### Стек технологий:
+
 <img width="18" height="18" src="https://icongr.am/devicon/html5-original.svg?size=18&color=currentColor" /> HTML5
 <img width="18" height="18" src="https://icongr.am/devicon/css3-original.svg?size=18&color=currentColor" /> CSS3
 <img width="18" height="18" src="https://icongr.am/devicon/javascript-original.svg?size=18&color=currentColor" /> Javascript
