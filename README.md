@@ -19,5 +19,5 @@
 
 ### Мои контакты
 
-📧 E-mail: avibus.bonis.2022@gmail.com,
+📧 E-mail: avibus.bonis.2022@gmail.com  
 <img width="18" height="18" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" /> CodeWars:https://www.codewars.com/users/avibus.bonis
